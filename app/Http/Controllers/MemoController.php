@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 use App\Models\Memo;
 use App\Http\Requests\MemoRequest;
-use Illuminate\Http\Request;
 
 class MemoController extends Controller
 {   
